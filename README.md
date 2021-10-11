@@ -15,10 +15,5 @@
 <div> 
   
   
-  ![Snake animation](https://github.com/arthurdiasdeveloper/arthurdiasdeveloper/blob/output/github-contribution-grid-snake.svg)
-  
-  ##
  
- 
- ##
 </div>
